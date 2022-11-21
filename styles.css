@@ -14,6 +14,9 @@ body{
     margin: 8px;
     display: block;
     background-color: gainsboro ;
+    border: 50px;
+    border-style: solid;
+    border-color: gray;
 }
 #mainHeadding{
     text-align: center;
