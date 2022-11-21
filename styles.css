@@ -1,4 +1,15 @@
 /* Write your CSS here! */
 p{
-    margin-left: 100px;
+    margin-left:20px;
+    text-align: center;
+    margin-right:20px;
+    font-family: 'Courier New', Courier, monospace ;
+}
+img{
+    margin: auto;
+    display: block;
+}
+body{
+    margin: 8px;
+    display: block;
 }
