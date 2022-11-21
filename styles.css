@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+p{
+    margin-left:100px;
+    text-align: center;
+    margin-right:100px;
+    font-family: 'Courier New', Courier, monospace ;
+}
+img{
+    margin: auto;
+    display: block;
+    border-style: solid;
+}
+body{
+    margin: 8px;
+    display: block;
+    background-color: gainsboro ;
+    border: 50px;
+    border-style: solid;
+    border-color: gray;
+}
+#mainHeadding{
+    color: red;
+}
+h1{
+    text-align: center;
+}
+.funParagraph{
+    color: green;
+}
+#testp{
+    color: green;
+}
+h2{
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+    color: grey;
+}
