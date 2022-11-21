@@ -27,7 +27,9 @@ h1{
 .funParagraph{
     color: green;
 }
-#testp
+#testp{
+    color: green;
+}
 h2{
     text-align: center;
 }
