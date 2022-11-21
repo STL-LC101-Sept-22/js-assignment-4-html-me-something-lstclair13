@@ -1,8 +1,8 @@
 /* Write your CSS here! */
 p{
-    margin-left:20px;
+    margin-left:100px;
     text-align: center;
-    margin-right:20px;
+    margin-right:100px;
     font-family: 'Courier New', Courier, monospace ;
 }
 img{
@@ -13,7 +13,7 @@ img{
 body{
     margin: 8px;
     display: block;
-    background-color: antiquewhite;
+    background-color: gainsboro ;
 }
 #mainHeadding{
     text-align: center;
