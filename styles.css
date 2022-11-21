@@ -8,10 +8,12 @@ p{
 img{
     margin: auto;
     display: block;
+    border-style: solid;
 }
 body{
     margin: 8px;
     display: block;
+    background-color: antiquewhite;
 }
 #mainHeadding{
     text-align: center;
@@ -19,4 +21,10 @@ body{
 }
 .funParagraph{
     color: green;
+}
+h2{
+    text-align: center;
+}
+figcaption{
+    text-align: center;
 }
