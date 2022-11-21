@@ -19,8 +19,10 @@ body{
     border-color: gray;
 }
 #mainHeadding{
-    text-align: center;
     color: red;
+}
+h1{
+    text-align: center;
 }
 .funParagraph{
     color: green;
